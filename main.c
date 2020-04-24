@@ -6,7 +6,7 @@ int main()
 
 
     printf("git commit\n");
-
+    printf("git commit from Vscode \n");
 
     return 0;
 }
